@@ -21,6 +21,8 @@ namespace CatalogAPI.Models
         [StringLength(50)]
         public string? CatalogName { get; set; }
 
+        //User 3 made changes
+
         //[JsonIgnore]       
        // public Collection<Product> ProductList { get; set; }
 
